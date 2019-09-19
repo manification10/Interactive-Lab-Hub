@@ -10,6 +10,7 @@ Cornell Tech, Fall 2019
 
 ## Lab Prep
 2. [preLab2: Digital timer](https://github.com/manification10/Interactive-Lab-Hub/blob/master/preLab02.md) 
+3. [preLab2: Data Logger](https://github.com/manification10/Interactive-Lab-Hub/blob/master/preLab03.md) 
 
 ## Final Project
 
