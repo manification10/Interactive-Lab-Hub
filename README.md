@@ -9,6 +9,7 @@ Cornell Tech, Fall 2019
 2. [Lab 2: Timer](https://github.com/manification10/IDD-Fa19-Lab2/blob/master/README.md)
 3. [Lab 3: Data Logger](https://github.com/manification10/IDD-Fa19-Lab3/blob/master/README.md)
 4. [Lab 4: Paper Signals](https://github.com/manification10/IDD-Fa19-Lab4/blob/master/README.md)
+5. [Lab 5: Jack in the Box](https://github.com/manification10/IDD-Fa19-Lab5/blob/master/readme.md)
 
 
 ## Lab Prep
