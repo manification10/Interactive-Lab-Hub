@@ -11,6 +11,7 @@ Cornell Tech, Fall 2019
 4. [Lab 4: Paper Signals](https://github.com/manification10/IDD-Fa19-Lab4/blob/master/README.md)
 5. [Lab 5: Jack in the Box](https://github.com/manification10/IDD-Fa19-Lab5/blob/master/readme.md)
 6. [Lab 6: Moo Chat Bot](https://github.com/manification10/IDD-Fa19-Lab6/blob/master/README.md)
+7. [Lab 7: Video Door Bell](https://github.com/manification10/IDD-Fa19-Lab7/blob/master/README.md)
 
 
 ## Lab Prep
